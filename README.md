@@ -1,110 +1,159 @@
-# 👋 Hola, soy Luis A. Toussaint
+<div align="center">
 
-### Desarrollador Web Frontend Junior · Ingeniero en Redes Computacionales
+<h1>¡Bienvenido a mi GitHub! 👾</h1>
+
+<h2>Luis A. Toussaint</h2>
+
+<p><strong>Desarrollador Web Frontend Junior · Ingeniero en Redes Computacionales</strong></p>
+
+<p><em>«Me gusta entender cómo funcionan las cosas y convertir problemas en soluciones prácticas».</em></p>
+
+<a href="https://github.com/AllenPrkr"><img src="https://img.shields.io/badge/GitHub-AllenPrkr-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub"></a>
+<a href="https://allenprkr.github.io/web_project_portfolio_es/"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio web"></a>
+
+</div>
+
+---
 
 ## 👨‍💻 Acerca de mí
 
 Soy profesional de Tecnologías de la Información con más de tres años de experiencia en soporte, gestión de servicios y procesos de TI. Actualmente amplío mi perfil hacia el **desarrollo web frontend** mediante mi formación en TripleTen y proyectos construidos con HTML, CSS, JavaScript y TypeScript.
 
-Me gusta entender cómo funcionan las cosas, analizar problemas y convertirlos en soluciones prácticas. He trabajado con interfaces responsivas, manipulación del DOM, programación orientada a objetos, consumo de APIs y programación asíncrona.
+Durante mi formación he trabajado con interfaces responsivas, manipulación del DOM, programación orientada a objetos, consumo de APIs y programación asíncrona. Utilizo Git y GitHub como parte de mi flujo de trabajo y procuro mantener el código organizado, claro y fácil de mantener.
 
-Mi objetivo es crecer como **Frontend Developer**, combinando mi experiencia tecnológica con el desarrollo de productos digitales claros, funcionales y fáciles de usar.
+Mi objetivo es crecer como **Frontend Developer**, combinando mi experiencia tecnológica, pensamiento analítico y capacidad para resolver problemas con el desarrollo de productos digitales funcionales y fáciles de usar.
 
-## 🎯 Objetivo profesional
+## 🛠️ Habilidades, lenguajes y herramientas
 
-Busco una oportunidad como **Desarrollador Web Frontend Junior** donde pueda aportar mi experiencia en tecnología, pensamiento analítico y capacidad para resolver problemas, mientras continúo fortaleciendo mis habilidades de desarrollo.
+<div align="center">
 
-## 🛠️ Tecnologías y herramientas
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+
+</div>
+
+- **Frontend:** HTML5, CSS3, JavaScript y TypeScript.
+- **Diseño:** Responsive Design, Flexbox, CSS Grid y metodología BEM.
+- **JavaScript:** DOM, eventos, módulos ES, Promises, `async/await` y Fetch API.
+- **Desarrollo:** programación orientada a objetos, APIs REST y control de versiones.
+- **Experiencia adicional:** Linux, redes, soporte y gestión de servicios de TI.
+
+## 🚀 Proyectos
+
+### 01 · Alrededor de los EE. UU.
+
+<p align="center">
+  <a href="https://allenprkr.github.io/web_project_around_es/">
+    <img src="./assets/alrededor-eeuu.png" width="850" alt="Vista previa de la galería interactiva Alrededor de los EE. UU.">
+  </a>
+</p>
+
+Galería interactiva conectada a una API para administrar un perfil, publicar y eliminar tarjetas, marcar contenido con «Me gusta» y editar el avatar.
+
+- **Reto:** mantener una interfaz responsiva sincronizada con los datos de un servidor.
+- **Solución:** organicé la aplicación en clases, implementé validación en tiempo real y conecté las acciones mediante una API REST.
+- **Aprendizaje:** reforcé TypeScript estricto, programación orientada a objetos, composición, asincronía y manejo de errores.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+
+[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_around_es/)
+[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_around_es)
+
+---
+
+### 02 · Gestor de gastos
+
+<p align="center">
+  <a href="https://github.com/AllenPrkr/web_project_expenses_es">
+    <img src="./assets/gestor-gastos.png" width="850" alt="Vista previa de la aplicación Gestor de gastos">
+  </a>
+</p>
+
+Aplicación web para registrar gastos, asignar un presupuesto y consultar estadísticas generales y por categoría.
+
+- **Reto:** convertir una interfaz estática en una herramienta que actualizara información financiera de forma clara.
+- **Solución:** implementé el registro y eliminación de gastos, cálculos de saldo y promedio, estadísticas y persistencia local.
+- **Aprendizaje:** fortalecí la manipulación del DOM, la separación de responsabilidades y el control de versiones.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![localStorage](https://img.shields.io/badge/localStorage-555555?style=flat-square)
 
-- **Frontend:** HTML5, CSS3, JavaScript y TypeScript
-- **Diseño y estilos:** Responsive Design, Flexbox, CSS Grid y metodología BEM
-- **JavaScript:** DOM, eventos, módulos ES, Promises, `async/await` y Fetch API
-- **Desarrollo:** programación orientada a objetos, APIs REST y control de versiones
-- **Experiencia previa:** Linux, redes, soporte y gestión de servicios de TI
-
-## 🚀 Proyectos destacados
-
-### 1. Alrededor de los EE. UU.
-
-Galería interactiva conectada a una API que permite administrar un perfil, publicar y eliminar tarjetas, marcar contenido con «Me gusta» y editar el avatar.
-
-- **Problema:** construir una experiencia dinámica y responsiva cuyos datos permanecieran sincronizados con un servidor.
-- **Qué hice:** organicé la aplicación en clases con responsabilidades independientes, implementé formularios con validación en tiempo real y conecté las acciones de la interfaz con una API REST.
-- **Resultado y aprendizaje:** reforcé TypeScript en modo estricto, programación orientada a objetos, composición de componentes, solicitudes asíncronas y manejo de errores.
-- **Stack:** HTML5, CSS3, BEM, TypeScript, Fetch API, REST, Git y GitHub Pages.
-- **Enlaces:** [Ver demo](https://allenprkr.github.io/web_project_around_es/) · [Repositorio](https://github.com/AllenPrkr/web_project_around_es)
-
-#### Vista previa
-
-<a href="https://allenprkr.github.io/web_project_around_es/">
-  <img src="./assets/alrededor-eeuu.png" width="100%" alt="Vista previa de la galería interactiva Alrededor de los EE. UU.">
-</a>
-
-### 2. Gestor de gastos
-
-Aplicación web para registrar gastos, asignar un presupuesto y consultar estadísticas generales por categoría.
-
-- **Problema:** convertir una interfaz estática en una herramienta capaz de calcular y actualizar información financiera de manera clara.
-- **Qué hice:** implementé el registro y eliminación de gastos, los cálculos de saldo y promedio, las estadísticas por categoría y la persistencia local de los datos.
-- **Resultado y aprendizaje:** fortalecí la manipulación del DOM, la separación de responsabilidades en JavaScript y el uso de Git y GitHub durante el desarrollo.
-- **Stack:** HTML5, CSS3, JavaScript, `localStorage`, Git y GitHub.
-- **Enlace:** [Ver repositorio](https://github.com/AllenPrkr/web_project_expenses_es)
-
-#### Vista previa
-
-<a href="https://github.com/AllenPrkr/web_project_expenses_es">
-  <img src="./assets/gestor-gastos.png" width="100%" alt="Vista previa de la aplicación Gestor de gastos">
-</a>
-
-### 3. Portafolio personal
-
-Sitio web responsivo que funciona como tarjeta de presentación digital y reúne mi perfil, habilidades técnicas, proyectos, currículum y canales de contacto.
-
-- **Problema:** presentar mi trayectoria y mis proyectos de forma clara, profesional y accesible desde computadoras, tabletas y teléfonos.
-- **Qué hice:** desarrollé una interfaz modular con secciones de perfil, habilidades, proyectos y contacto; organicé los estilos por bloques y adapté la composición mediante media queries.
-- **Resultado y aprendizaje:** reforcé la creación de layouts responsivos, la organización de CSS con BEM, el trabajo con imágenes fluidas y la construcción de una identidad visual coherente.
-- **Stack:** HTML5, CSS3, BEM, Flexbox, CSS Grid, Responsive Design y GitHub Pages.
-- **Enlaces:** [Ver demo](https://allenprkr.github.io/web_project_portfolio_es/) · [Repositorio](https://github.com/AllenPrkr/web_project_portfolio_es)
-
-#### Vista previa
-
-<a href="https://allenprkr.github.io/web_project_portfolio_es/">
-  <img src="./assets/portafolio-personal.png" width="100%" alt="Vista previa del portafolio personal de Luis Alberto Chávez Toussaint">
-</a>
-
-### 4. Triple Espresso
-
-Landing page para una cafetería ficticia que presenta sus instalaciones, horarios, ubicación y un formulario para reservar una mesa.
-
-- **Problema:** transformar un brief de diseño en una página ordenada, atractiva y fácil de recorrer mediante navegación interna.
-- **Qué hice:** construí la estructura con HTML semántico, maqueté las secciones con CSS y Flexbox e implementé un formulario de reserva con campos obligatorios y estados interactivos.
-- **Resultado y aprendizaje:** fortalecí mis bases de maquetación, posicionamiento, formularios HTML, organización de recursos y fidelidad respecto de un diseño de referencia.
-- **Stack:** HTML5, CSS3, Flexbox, formularios HTML, Google Fonts y Normalize.css.
-- **Enlaces:** [Ver demo](https://allenprkr.github.io/web_project_coffeeshop_es/) · [Repositorio](https://github.com/AllenPrkr/web_project_coffeeshop_es)
-
-#### Vista previa
-
-<a href="https://allenprkr.github.io/web_project_coffeeshop_es/">
-  <img src="./assets/triple-espresso.png" width="100%" alt="Vista previa de la cafetería Triple Espresso">
-</a>
-
-## 📊 Actividad en GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=AllenPrkr&show_icons=true&locale=es&hide_border=true&theme=transparent" alt="Estadísticas públicas de GitHub de AllenPrkr">
-
-## 📫 Contacto
-
-- **GitHub:** [github.com/AllenPrkr](https://github.com/AllenPrkr)
-- **Ubicación:** México
+[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_expenses_es)
 
 ---
 
+### 03 · Portafolio personal
+
+<p align="center">
+  <a href="https://allenprkr.github.io/web_project_portfolio_es/">
+    <img src="./assets/portafolio-personal.png" width="850" alt="Vista previa del portafolio personal de Luis Alberto Chávez Toussaint">
+  </a>
+</p>
+
+Tarjeta de presentación digital que reúne mi perfil, habilidades, proyectos, currículum y canales de contacto.
+
+- **Reto:** presentar mi trayectoria de forma clara y accesible desde computadoras, tabletas y teléfonos.
+- **Solución:** desarrollé una interfaz modular, organicé los estilos por bloques y adapté el diseño mediante media queries.
+- **Aprendizaje:** reforcé layouts responsivos, BEM, imágenes fluidas y la construcción de una identidad visual coherente.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive_Design-764ABC?style=flat-square)
+
+[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_portfolio_es/)
+[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_portfolio_es)
+
+---
+
+### 04 · Triple Espresso
+
+<p align="center">
+  <a href="https://allenprkr.github.io/web_project_coffeeshop_es/">
+    <img src="./assets/triple-espresso.png" width="850" alt="Vista previa de la cafetería Triple Espresso">
+  </a>
+</p>
+
+Landing page para una cafetería ficticia con información del establecimiento, navegación interna y un formulario para reservar mesa.
+
+- **Reto:** transformar un brief de diseño en una página ordenada, atractiva y fácil de recorrer.
+- **Solución:** construí HTML semántico, maqueté las secciones con CSS y Flexbox e implementé campos obligatorios y estados interactivos.
+- **Aprendizaje:** fortalecí maquetación, posicionamiento, formularios, organización de recursos y fidelidad visual.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat-square)
+![Forms](https://img.shields.io/badge/HTML_Forms-E34F26?style=flat-square)
+
+[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_coffeeshop_es/)
+[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_coffeeshop_es)
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AllenPrkr&show_icons=true&locale=es&hide_border=true&theme=transparent" alt="Estadísticas públicas de GitHub de AllenPrkr">
+
+</div>
+
+## 🤝 Contacto
+
+<div align="center">
+
+<a href="https://github.com/AllenPrkr"><img src="https://img.shields.io/badge/GitHub-AllenPrkr-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub"></a>
+<a href="https://allenprkr.github.io/web_project_portfolio_es/"><img src="https://img.shields.io/badge/Portafolio-Web-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio web"></a>
+<img src="https://img.shields.io/badge/Ubicación-México-006847?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación: México">
+
 Actualmente continúo desarrollando nuevos proyectos y ampliando mis conocimientos en desarrollo frontend.
+
+</div>
