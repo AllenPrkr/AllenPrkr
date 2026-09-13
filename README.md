@@ -78,8 +78,8 @@ Galería interactiva conectada a una API para administrar un perfil, publicar y 
   </tr>
 </table>
 
-[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_around_es/)
-[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_around_es)
+1. [Ver demo](https://allenprkr.github.io/web_project_around_es/)
+2. [Ver código](https://github.com/AllenPrkr/web_project_around_es)
 
 ---
 
@@ -106,8 +106,8 @@ Aplicación web para registrar gastos, asignar un presupuesto y consultar estad�
   </tr>
 </table>
 
-[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_expenses_es/)
-[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_expenses_es)
+1. [Ver demo](https://allenprkr.github.io/web_project_expenses_es/)
+2. [Ver código](https://github.com/AllenPrkr/web_project_expenses_es)
 
 ---
 
@@ -134,8 +134,8 @@ Tarjeta de presentación digital que reúne mi perfil, habilidades, proyectos, c
   </tr>
 </table>
 
-[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_portfolio_es/)
-[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_portfolio_es)
+1. [Ver demo](https://allenprkr.github.io/web_project_portfolio_es/)
+2. [Ver código](https://github.com/AllenPrkr/web_project_portfolio_es)
 
 ---
 
@@ -162,8 +162,8 @@ Landing page para una cafetería ficticia con información del establecimiento, 
   </tr>
 </table>
 
-[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_coffeeshop_es/)
-[![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_coffeeshop_es)
+1. [Ver demo](https://allenprkr.github.io/web_project_coffeeshop_es/)
+2. [Ver código](https://github.com/AllenPrkr/web_project_coffeeshop_es)
 
 ## 📊 Actividad en GitHub
 
