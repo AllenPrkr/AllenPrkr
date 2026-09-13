@@ -25,22 +25,32 @@ Mi objetivo es crecer como **Frontend Developer**, combinando mi experiencia tec
 
 ## 🛠️ Habilidades, lenguajes y herramientas
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/html5.jpeg" width="55" alt="HTML5"><br><strong>HTML5</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/css3.jpeg" width="55" alt="CSS3"><br><strong>CSS3</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/javascript.jpeg" width="55" alt="JavaScript"><br><strong>JavaScript</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/typescript.png" width="55" alt="TypeScript"><br><strong>TypeScript</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/react.jpeg" width="55" alt="React"><br><strong>React</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/nodejs.jpeg" width="55" alt="Node.js"><br><strong>Node.js</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/figma.jpeg" width="55" alt="Figma"><br><strong>Figma</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/vscode.png" width="55" alt="Visual Studio Code"><br><strong>VS Code</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="./assets/icons/git.jpeg" width="55" alt="Git"><br><strong>Git</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/github.jpeg" width="55" alt="GitHub"><br><strong>GitHub</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/github-pages.png" width="55" alt="GitHub Pages"><br><strong>GitHub Pages</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/api-rest.jpg" width="55" alt="API REST"><br><strong>API REST</strong></td>
+  </tr>
+</table>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-
-</div>
-
-- **Frontend:** HTML5, CSS3, JavaScript y TypeScript.
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript y fundamentos de React.
 - **Diseño:** Responsive Design, Flexbox, CSS Grid y metodología BEM.
-- **JavaScript:** DOM, eventos, módulos ES, Promises, `async/await` y Fetch API.
+- **JavaScript:** DOM, eventos, módulos ES, Promises, `async/await`, Fetch API y fundamentos de Node.js.
 - **Desarrollo:** programación orientada a objetos, APIs REST y control de versiones.
+- **Herramientas:** Git, GitHub, GitHub Pages, Figma y Visual Studio Code.
 - **Experiencia adicional:** Linux, redes, soporte y gestión de servicios de TI.
 
 ## 🚀 Proyectos
@@ -149,11 +159,28 @@ Landing page para una cafetería ficticia con información del establecimiento, 
 
 ## 🤝 Contacto
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/AllenPrkr"><img src="./assets/icons/github.jpeg" height="55" alt="GitHub"></a><br>
+      <a href="https://github.com/AllenPrkr"><strong>AllenPrkr</strong></a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://mx.linkedin.com/in/luis-a-toussaint"><img src="./assets/icons/linkedin.jpeg" height="55" alt="LinkedIn"></a><br>
+      <a href="https://mx.linkedin.com/in/luis-a-toussaint"><strong>LinkedIn</strong></a>
+    </td>
+    <td align="center" width="220">
+      <a href="mailto:luizchavez360@gmail.com"><img src="./assets/icons/gmail.jpeg" height="55" alt="Correo electrónico"></a><br>
+      <a href="mailto:luizchavez360@gmail.com"><strong>luizchavez360@gmail.com</strong></a>
+    </td>
+    <td align="center" width="170">
+      <img src="./assets/icons/discord.jpeg" height="55" alt="Discord"><br>
+      <strong>allenprkr.360</strong>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/AllenPrkr"><img src="https://img.shields.io/badge/GitHub-AllenPrkr-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub"></a>
-<a href="mailto:luizchavez360@gmail.com"><img src="https://img.shields.io/badge/Correo-luizchavez360%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: luizchavez360@gmail.com"></a>
-<img src="https://img.shields.io/badge/Discord-allenprkr.360-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: allenprkr.360">
+<div align="center">
 
 Actualmente continúo desarrollando nuevos proyectos y ampliando mis conocimientos en desarrollo frontend.
 
