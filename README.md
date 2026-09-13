@@ -8,9 +8,6 @@
 
 <p><em>«Me gusta entender cómo funcionan las cosas y convertir problemas en soluciones prácticas».</em></p>
 
-<a href="https://github.com/AllenPrkr"><img src="https://img.shields.io/badge/GitHub-AllenPrkr-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub"></a>
-<a href="https://allenprkr.github.io/web_project_portfolio_es/"><img src="https://img.shields.io/badge/Portafolio-Ver_sitio-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio web"></a>
-
 </div>
 
 ---
