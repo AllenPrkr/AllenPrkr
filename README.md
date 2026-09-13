@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1>¡Bienvenido a mi GitHub! 👾</h1>
+<h1>Luis A. Toussaint</h1>
 
-<h2>Luis A. Toussaint</h2>
+<h3>Frontend Developer Junior · Ingeniero en Redes Computacionales</h3>
 
-<p><strong>Desarrollador Web Frontend Junior · Ingeniero en Redes Computacionales</strong></p>
-
-<p><em>«Me gusta entender cómo funcionan las cosas y convertir problemas en soluciones prácticas».</em></p>
+<p><em>Construyo interfaces funcionales, responsivas y fáciles de usar.</em></p>
 
 </div>
 
@@ -14,40 +12,36 @@
 
 ## 👨‍💻 Acerca de mí
 
-Soy profesional de Tecnologías de la Información con más de tres años de experiencia en soporte, gestión de servicios y procesos de TI. Actualmente amplío mi perfil hacia el **desarrollo web frontend** mediante mi formación en TripleTen y proyectos construidos con HTML, CSS, JavaScript y TypeScript.
+Soy profesional de Tecnologías de la Información con más de tres años de experiencia en soporte, gestión de servicios y procesos de TI. Actualmente desarrollo mi perfil como **Frontend Developer** mediante mi formación en TripleTen y la creación de proyectos con HTML, CSS, JavaScript y TypeScript.
 
-Durante mi formación he trabajado con interfaces responsivas, manipulación del DOM, programación orientada a objetos, consumo de APIs y programación asíncrona. Utilizo Git y GitHub como parte de mi flujo de trabajo y procuro mantener el código organizado, claro y fácil de mantener.
-
-Mi objetivo es crecer como **Frontend Developer**, combinando mi experiencia tecnológica, pensamiento analítico y capacidad para resolver problemas con el desarrollo de productos digitales funcionales y fáciles de usar.
+Me enfoco en construir interfaces responsivas, consumir APIs y escribir código claro y mantenible. Busco aportar mi experiencia tecnológica, pensamiento analítico y capacidad para resolver problemas en un equipo de desarrollo web.
 
 ## 🛠️ Habilidades, lenguajes y herramientas
 
 <table align="center">
   <tr>
-    <td align="center" width="120"><img src="./assets/icons/html5.jpeg" width="55" alt="HTML5"><br><strong>HTML5</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/css3.jpeg" width="55" alt="CSS3"><br><strong>CSS3</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/javascript.jpeg" width="55" alt="JavaScript"><br><strong>JavaScript</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/typescript.png" width="55" alt="TypeScript"><br><strong>TypeScript</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/html5.jpeg" height="48" alt="HTML5"><br><strong>HTML5</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/css3.jpeg" height="48" alt="CSS3"><br><strong>CSS3</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/javascript.jpeg" height="48" alt="JavaScript"><br><strong>JavaScript</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/typescript.png" height="48" alt="TypeScript"><br><strong>TypeScript</strong></td>
   </tr>
   <tr>
-    <td align="center" width="120"><img src="./assets/icons/react.jpeg" width="55" alt="React"><br><strong>React</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/nodejs.jpeg" width="55" alt="Node.js"><br><strong>Node.js</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/figma.jpeg" width="55" alt="Figma"><br><strong>Figma</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/vscode.png" width="55" alt="Visual Studio Code"><br><strong>VS Code</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/react.jpeg" height="48" alt="React"><br><strong>React</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/nodejs.jpeg" height="48" alt="Node.js"><br><strong>Node.js</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/figma.jpeg" height="48" alt="Figma"><br><strong>Figma</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/vscode.png" height="48" alt="Visual Studio Code"><br><strong>VS Code</strong></td>
   </tr>
   <tr>
-    <td align="center" width="120"><img src="./assets/icons/git.jpeg" width="55" alt="Git"><br><strong>Git</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/github.jpeg" width="55" alt="GitHub"><br><strong>GitHub</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/github-pages.png" width="55" alt="GitHub Pages"><br><strong>GitHub Pages</strong></td>
-    <td align="center" width="120"><img src="./assets/icons/api-rest.jpg" width="55" alt="API REST"><br><strong>API REST</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/git.jpeg" height="48" alt="Git"><br><strong>Git</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/github.jpeg" height="48" alt="GitHub"><br><strong>GitHub</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/github-pages.png" height="48" alt="GitHub Pages"><br><strong>GitHub Pages</strong></td>
+    <td align="center" width="120"><img src="./assets/icons/api-rest.jpg" height="48" alt="API REST"><br><strong>API REST</strong></td>
   </tr>
 </table>
 
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript y fundamentos de React.
-- **Diseño:** Responsive Design, Flexbox, CSS Grid y metodología BEM.
-- **JavaScript:** DOM, eventos, módulos ES, Promises, `async/await`, Fetch API y fundamentos de Node.js.
-- **Desarrollo:** programación orientada a objetos, APIs REST y control de versiones.
-- **Herramientas:** Git, GitHub, GitHub Pages, Figma y Visual Studio Code.
+- **Desarrollo frontend:** Responsive Design, Flexbox, CSS Grid, BEM, DOM y módulos ES.
+- **JavaScript:** eventos, Promises, `async/await`, Fetch API y programación orientada a objetos.
+- **Flujo de trabajo:** APIs REST, Git, GitHub, GitHub Pages, Figma y Visual Studio Code.
 - **Experiencia adicional:** Linux, redes, soporte y gestión de servicios de TI.
 
 ## 🚀 Proyectos
@@ -162,13 +156,7 @@ Landing page para una cafetería ficticia con información del establecimiento, 
 1. [Ver demo](https://allenprkr.github.io/web_project_coffeeshop_es/)
 2. [Ver código](https://github.com/AllenPrkr/web_project_coffeeshop_es)
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AllenPrkr&show_icons=true&locale=es&hide_border=true&theme=transparent" alt="Estadísticas públicas de GitHub de AllenPrkr">
-
-</div>
+---
 
 ## 🤝 Contacto
 
@@ -193,8 +181,4 @@ Landing page para una cafetería ficticia con información del establecimiento, 
   </tr>
 </table>
 
-<div align="center">
-
-Actualmente continúo desarrollando nuevos proyectos y ampliando mis conocimientos en desarrollo frontend.
-
-</div>
+<p align="center"><em>Disponible para oportunidades como Frontend Developer Junior.</em></p>
