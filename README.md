@@ -69,10 +69,14 @@ Galería interactiva conectada a una API para administrar un perfil, publicar y 
 - **Solución:** organicé la aplicación en clases, implementé validación en tiempo real y conecté las acciones mediante una API REST.
 - **Aprendizaje:** reforcé TypeScript estricto, programación orientada a objetos, composición, asincronía y manejo de errores.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="145"><img src="./assets/icons/typescript.png" height="45" alt="TypeScript"><br><strong>TypeScript</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/css3.jpeg" height="45" alt="CSS3 y BEM"><br><strong>CSS3 · BEM</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/api-rest.jpg" height="45" alt="API REST"><br><strong>API REST</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/github-pages.png" height="45" alt="GitHub Pages"><br><strong>GitHub Pages</strong></td>
+  </tr>
+</table>
 
 [![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_around_es/)
 [![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_around_es)
@@ -93,10 +97,14 @@ Aplicación web para registrar gastos, asignar un presupuesto y consultar estad�
 - **Solución:** implementé el registro y eliminación de gastos, cálculos de saldo y promedio, estadísticas y persistencia local.
 - **Aprendizaje:** fortalecí la manipulación del DOM, la separación de responsabilidades y el control de versiones.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![localStorage](https://img.shields.io/badge/localStorage-555555?style=flat-square)
+<table align="center">
+  <tr>
+    <td align="center" width="145"><img src="./assets/icons/html5.jpeg" height="45" alt="HTML5"><br><strong>HTML5</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/css3.jpeg" height="45" alt="CSS3"><br><strong>CSS3</strong></td>
+    <td align="center" width="170"><img src="./assets/icons/javascript.jpeg" height="45" alt="JavaScript"><br><strong>JavaScript · localStorage</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/github-pages.png" height="45" alt="GitHub Pages"><br><strong>GitHub Pages</strong></td>
+  </tr>
+</table>
 
 [![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_expenses_es/)
 [![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_expenses_es)
@@ -117,10 +125,14 @@ Tarjeta de presentación digital que reúne mi perfil, habilidades, proyectos, c
 - **Solución:** desarrollé una interfaz modular, organicé los estilos por bloques y adapté el diseño mediante media queries.
 - **Aprendizaje:** reforcé layouts responsivos, BEM, imágenes fluidas y la construcción de una identidad visual coherente.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive_Design-764ABC?style=flat-square)
+<table align="center">
+  <tr>
+    <td align="center" width="145"><img src="./assets/icons/html5.jpeg" height="45" alt="HTML5"><br><strong>HTML5</strong></td>
+    <td align="center" width="190"><img src="./assets/icons/css3.jpeg" height="45" alt="CSS3, BEM y diseño responsivo"><br><strong>CSS3 · BEM · Responsive</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/git.jpeg" height="45" alt="Git"><br><strong>Git</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/github-pages.png" height="45" alt="GitHub Pages"><br><strong>GitHub Pages</strong></td>
+  </tr>
+</table>
 
 [![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_portfolio_es/)
 [![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_portfolio_es)
@@ -141,10 +153,14 @@ Landing page para una cafetería ficticia con información del establecimiento, 
 - **Solución:** construí HTML semántico, maqueté las secciones con CSS y Flexbox e implementé campos obligatorios y estados interactivos.
 - **Aprendizaje:** fortalecí maquetación, posicionamiento, formularios, organización de recursos y fidelidad visual.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat-square)
-![Forms](https://img.shields.io/badge/HTML_Forms-E34F26?style=flat-square)
+<table align="center">
+  <tr>
+    <td align="center" width="170"><img src="./assets/icons/html5.jpeg" height="45" alt="HTML5 y formularios"><br><strong>HTML5 · Formularios</strong></td>
+    <td align="center" width="170"><img src="./assets/icons/css3.jpeg" height="45" alt="CSS3 y Flexbox"><br><strong>CSS3 · Flexbox</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/git.jpeg" height="45" alt="Git"><br><strong>Git</strong></td>
+    <td align="center" width="145"><img src="./assets/icons/github-pages.png" height="45" alt="GitHub Pages"><br><strong>GitHub Pages</strong></td>
+  </tr>
+</table>
 
 [![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_coffeeshop_es/)
 [![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_coffeeshop_es)
