@@ -4,7 +4,9 @@
 
 ### Desarrollador Web Frontend Junior · Ingeniero en Redes Computacionales
 
-Soy profesional de Tecnologías de la Información con experiencia en soporte, gestión de servicios y procesos de TI. Actualmente amplío mi perfil hacia el **desarrollo web frontend** mediante mi formación en TripleTen y proyectos construidos con HTML, CSS, JavaScript y TypeScript.
+## 👨‍💻 Acerca de mí
+
+Soy profesional de Tecnologías de la Información con más de tres años de experiencia en soporte, gestión de servicios y procesos de TI. Actualmente amplío mi perfil hacia el **desarrollo web frontend** mediante mi formación en TripleTen y proyectos construidos con HTML, CSS, JavaScript y TypeScript.
 
 Me gusta entender cómo funcionan las cosas, analizar problemas y convertirlos en soluciones prácticas. He trabajado con interfaces responsivas, manipulación del DOM, programación orientada a objetos, consumo de APIs y programación asíncrona.
 
@@ -44,6 +46,12 @@ Galería interactiva conectada a una API que permite administrar un perfil, publ
 - **Stack:** HTML5, CSS3, BEM, TypeScript, Fetch API, REST, Git y GitHub Pages.
 - **Enlaces:** [Ver demo](https://allenprkr.github.io/web_project_around_es/) · [Repositorio](https://github.com/AllenPrkr/web_project_around_es)
 
+#### Vista previa
+
+<a href="https://allenprkr.github.io/web_project_around_es/">
+  <img src="./assets/alrededor-eeuu.png" width="100%" alt="Vista previa de la galería interactiva Alrededor de los EE. UU.">
+</a>
+
 ### 2. Gestor de gastos
 
 Aplicación web para registrar gastos, asignar un presupuesto y consultar estadísticas generales por categoría.
@@ -53,6 +61,16 @@ Aplicación web para registrar gastos, asignar un presupuesto y consultar estad�
 - **Resultado y aprendizaje:** fortalecí la manipulación del DOM, la separación de responsabilidades en JavaScript y el uso de Git y GitHub durante el desarrollo.
 - **Stack:** HTML5, CSS3, JavaScript, `localStorage`, Git y GitHub.
 - **Enlace:** [Ver repositorio](https://github.com/AllenPrkr/web_project_expenses_es)
+
+#### Vista previa
+
+<a href="https://github.com/AllenPrkr/web_project_expenses_es">
+  <img src="./assets/gestor-gastos.png" width="100%" alt="Vista previa de la aplicación Gestor de gastos">
+</a>
+
+## 📊 Actividad en GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=AllenPrkr&show_icons=true&locale=es&hide_border=true&theme=transparent" alt="Estadísticas públicas de GitHub de AllenPrkr">
 
 ## 📫 Contacto
 
