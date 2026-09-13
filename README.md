@@ -68,6 +68,38 @@ Aplicación web para registrar gastos, asignar un presupuesto y consultar estad�
   <img src="./assets/gestor-gastos.png" width="100%" alt="Vista previa de la aplicación Gestor de gastos">
 </a>
 
+### 3. Portafolio personal
+
+Sitio web responsivo que funciona como tarjeta de presentación digital y reúne mi perfil, habilidades técnicas, proyectos, currículum y canales de contacto.
+
+- **Problema:** presentar mi trayectoria y mis proyectos de forma clara, profesional y accesible desde computadoras, tabletas y teléfonos.
+- **Qué hice:** desarrollé una interfaz modular con secciones de perfil, habilidades, proyectos y contacto; organicé los estilos por bloques y adapté la composición mediante media queries.
+- **Resultado y aprendizaje:** reforcé la creación de layouts responsivos, la organización de CSS con BEM, el trabajo con imágenes fluidas y la construcción de una identidad visual coherente.
+- **Stack:** HTML5, CSS3, BEM, Flexbox, CSS Grid, Responsive Design y GitHub Pages.
+- **Enlaces:** [Ver demo](https://allenprkr.github.io/web_project_portfolio_es/) · [Repositorio](https://github.com/AllenPrkr/web_project_portfolio_es)
+
+#### Vista previa
+
+<a href="https://allenprkr.github.io/web_project_portfolio_es/">
+  <img src="./assets/portafolio-personal.png" width="100%" alt="Vista previa del portafolio personal de Luis Alberto Chávez Toussaint">
+</a>
+
+### 4. Triple Espresso
+
+Landing page para una cafetería ficticia que presenta sus instalaciones, horarios, ubicación y un formulario para reservar una mesa.
+
+- **Problema:** transformar un brief de diseño en una página ordenada, atractiva y fácil de recorrer mediante navegación interna.
+- **Qué hice:** construí la estructura con HTML semántico, maqueté las secciones con CSS y Flexbox e implementé un formulario de reserva con campos obligatorios y estados interactivos.
+- **Resultado y aprendizaje:** fortalecí mis bases de maquetación, posicionamiento, formularios HTML, organización de recursos y fidelidad respecto de un diseño de referencia.
+- **Stack:** HTML5, CSS3, Flexbox, formularios HTML, Google Fonts y Normalize.css.
+- **Enlaces:** [Ver demo](https://allenprkr.github.io/web_project_coffeeshop_es/) · [Repositorio](https://github.com/AllenPrkr/web_project_coffeeshop_es)
+
+#### Vista previa
+
+<a href="https://allenprkr.github.io/web_project_coffeeshop_es/">
+  <img src="./assets/triple-espresso.png" width="100%" alt="Vista previa de la cafetería Triple Espresso">
+</a>
+
 ## 📊 Actividad en GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=AllenPrkr&show_icons=true&locale=es&hide_border=true&theme=transparent" alt="Estadísticas públicas de GitHub de AllenPrkr">
