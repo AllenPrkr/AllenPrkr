@@ -1,4 +1,4 @@
-# 👋 Hola, soy Luis Alberto Chávez Toussaint
+# 👋 Hola, soy Luis A. Toussaint
 
 ### Desarrollador Web Frontend Junior · Ingeniero en Redes Computacionales
 
