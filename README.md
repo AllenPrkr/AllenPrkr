@@ -72,7 +72,7 @@ Galería interactiva conectada a una API para administrar un perfil, publicar y 
 ### 02 · Gestor de gastos
 
 <p align="center">
-  <a href="https://github.com/AllenPrkr/web_project_expenses_es">
+  <a href="https://allenprkr.github.io/web_project_expenses_es/">
     <img src="./assets/gestor-gastos.png" width="850" alt="Vista previa de la aplicación Gestor de gastos">
   </a>
 </p>
@@ -88,6 +88,7 @@ Aplicación web para registrar gastos, asignar un presupuesto y consultar estad�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![localStorage](https://img.shields.io/badge/localStorage-555555?style=flat-square)
 
+[![Demo](https://img.shields.io/badge/VER_DEMO-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://allenprkr.github.io/web_project_expenses_es/)
 [![Código](https://img.shields.io/badge/VER_CODIGO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AllenPrkr/web_project_expenses_es)
 
 ---
