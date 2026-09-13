@@ -152,8 +152,8 @@ Landing page para una cafetería ficticia con información del establecimiento, 
 <div align="center">
 
 <a href="https://github.com/AllenPrkr"><img src="https://img.shields.io/badge/GitHub-AllenPrkr-181717?style=for-the-badge&logo=github" alt="Perfil de GitHub"></a>
-<a href="https://allenprkr.github.io/web_project_portfolio_es/"><img src="https://img.shields.io/badge/Portafolio-Web-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio web"></a>
-<img src="https://img.shields.io/badge/Ubicación-México-006847?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación: México">
+<a href="mailto:luizchavez360@gmail.com"><img src="https://img.shields.io/badge/Correo-luizchavez360%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: luizchavez360@gmail.com"></a>
+<img src="https://img.shields.io/badge/Discord-allenprkr.360-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: allenprkr.360">
 
 Actualmente continúo desarrollando nuevos proyectos y ampliando mis conocimientos en desarrollo frontend.
 
