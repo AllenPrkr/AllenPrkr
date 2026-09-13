@@ -1,5 +1,3 @@
-<img align="right" width="220" src="https://github.com/AllenPrkr.png" alt="Foto de perfil de Luis Alberto Chávez Toussaint">
-
 # 👋 Hola, soy Luis Alberto Chávez Toussaint
 
 ### Desarrollador Web Frontend Junior · Ingeniero en Redes Computacionales
@@ -11,8 +9,6 @@ Soy profesional de Tecnologías de la Información con más de tres años de exp
 Me gusta entender cómo funcionan las cosas, analizar problemas y convertirlos en soluciones prácticas. He trabajado con interfaces responsivas, manipulación del DOM, programación orientada a objetos, consumo de APIs y programación asíncrona.
 
 Mi objetivo es crecer como **Frontend Developer**, combinando mi experiencia tecnológica con el desarrollo de productos digitales claros, funcionales y fáciles de usar.
-
-<br clear="right">
 
 ## 🎯 Objetivo profesional
 
